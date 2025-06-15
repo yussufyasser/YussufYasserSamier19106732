@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Admin</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_username">enter your username</string>
+    <string name="enter_password">enter your password</string>
+    <string name="don_t_have_an_account">don\'t have an account</string>
+    <string name="submit">submit</string>
+    <string name="title_activity_options">options</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="failed_to_login">username and password doesn\'t match</string>
+    <string name="something_is_missing">something is missing</string>
+    <string name="enter_student_email">enter student email</string>
+    <string name="enter_student_first_name">enter student first name</string>
+    <string name="enter_student_last_name">enter student last name</string>
+    <string name="enter_student_dob">enter student DOB</string>
+    <string name="enter_student_gender">enter student gender</string>
+    <string name="male">Male</string>
+
+    <string name="female">Female</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_lecturer_email">enter lecturer email</string>
+    <string name="enter_lecturer_firstname">enter lecturer firstname</string>
+    <string name="enter_lecturer_last_name">enter lecturer last name</string>
+    <string name="enter_lecturer_student_dob">enter lecturer student dob</string>
+    <string name="enter_lecturer_gender">enter lecturer gender</string>
+    <string name="year">year</string>
+    <string name="day">day</string>
+    <string name="month">month</string>
+    <string name="add_lecturer">add_lecturer</string>
+    <string name="add_student">add_student</string>
+    <string name="add_subject">add_subject</string>
+    <string name="enter_your_id">enter your ID</string>
+    <string name="enter_subject_name">enter subject name</string>
+    <string name="assign_lecturer">assign for lecturer</string>
+    <string name="Lecturers">Lecturers</string>
+    <string name="students">Students</string>
+    <string name="enter_lecturer_id_or_name">enter lecturer ID or name</string>
+    <string name="assign_subject">assign subject</string>
+    <string name="enter_student_id_or_name">enter student id or name</string>
+
+</resources>
